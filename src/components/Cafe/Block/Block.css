@@ -1,0 +1,27 @@
+.Block__container{
+    background-color: rgb(235,90,70);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    margin: 1rem;
+    border-radius: 8px;
+}
+.Block__header{
+    font-size: 1.6rem;
+}
+.Block__secondary{
+    font-size: 1.2rem;
+}
+.Block__btn{
+    background-color: red;
+    color:white;
+    font-weight: 700;
+    outline:none;
+    border: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 50%;
+}

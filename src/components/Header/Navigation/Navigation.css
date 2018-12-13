@@ -1,0 +1,16 @@
+.Navigation__ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin:0;
+}
+
+.Navigation__li{
+    list-style: none;
+}
+.Navigation__ul a{
+    color:white;
+    margin-right: 5px;
+    padding: 0 1rem;
+}

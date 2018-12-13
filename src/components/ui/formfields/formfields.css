@@ -1,0 +1,15 @@
+.formFields__label{
+    display: block;
+}
+.formTemplate{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.formTemplate select, option, input{
+    border-radius: 12px;
+    outline:0;
+    border:0;
+    padding: 0.5rem 1rem;
+}
